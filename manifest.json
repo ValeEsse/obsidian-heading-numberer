@@ -1,0 +1,11 @@
+{
+  "id": "heading-numberer",
+  "name": "Heading Numberer",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "自动为 Markdown 标题生成序号。支持多种样式、显示格式和分隔符组合，可自定义出任意风格的编号方案。",
+  "author": "valeesse",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
